@@ -1,0 +1,5 @@
+{
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/out/build/unixlike-clang-debug/compile_commands.json",
+    "taskExplorer.enableSideBar": true,
+    "C_Cpp.formatting": "clangFormat"
+}
